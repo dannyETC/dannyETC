@@ -1,4 +1,4 @@
-<h1>Hello, I'm Danny! <br/><a href="https://github.com/joshmadakor1">IT Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Veteran</a>, <a href="https://www.youtube.com/c/joshmadakor">Avid Camper</a></h1>
+<h1>Hello, I'm Danny! <br/><a href="https://github.com/dannyETC/dannyETC">IT Professional</a>, <a href="www.linkedin.com/in/daniel-gang">Veteran</a>, Avid Camper</a></h1>
 
 <h2>👨‍💻 IT Home Projects:</h2>
 
